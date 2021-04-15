@@ -1,2 +1,2 @@
-# CustWebsite
-This is the project from PGP Full Stack Java course by Mahesh Patil
+# Project
+This is the project from PGP Full Stack Java course by Mahesh Suresh Patil
